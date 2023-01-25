@@ -1,5 +1,13 @@
-# S-P-500-Stocks
+# Overview of Companies under S&P 500
 Examined the returns, components, and volatility of the S&P 500 index and identified stocks with high and low performance.
+
+## Dataset
+
+The data The Standard and Poor's 500 or S&P 500 is the most famous financial benchmark in the world.
+This stock market index tracks the performance of 500 large companies listed on stock exchanges in the United States.
+As of December 31, 2020, more than $5.4 trillion was invested in assets tied to the performance of this index.
+Dataset overview: https://www.kaggle.com/datasets/andrewmvd/sp-500-stocks?select=sp500_index.csv
+
 
 ## Summary of Findings
 
